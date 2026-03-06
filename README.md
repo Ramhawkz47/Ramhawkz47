@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ramhawkz47
-- 👀 I’m interested in Robotics, Machine Learning, Deep Learning and AI.
-- 🌱 I’m currently learning Native Programing and Automation.
-- 💞️ I’m looking to collaborate on great innovations.
+- 👋 Hi, I’m Sriram Ravisankar (@Ramhawkz47)
+- 👀 I’m interested in Robotics and Vision AI.
+- 🌱 I’m currently working on Edge Inference Engines and Drone Automations.
+- 💞️ I’m looking forward to any opportunities towards good innovations.
 - 📫 How to reach me: Send an E-mail to: sriram4700@gmail.com
 
 <!---
